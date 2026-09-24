@@ -4,15 +4,15 @@ Llena este archivo en **tu copia**, dentro de `estudiantes/<tu-login>/github/`.
 
 ## Quién soy
 
-- Nombre:
-- Usuario de GitHub:
-- Correo con el que entraste a DataCamp:
+- Nombre: Camila Velasco Ortega
+- Usuario de GitHub: camila7866
+- Correo con el que entraste a DataCamp: cvelas15@itam.mx
 
 ## Introduction to Git
 
 Se llena en la **primera** entrega.
 
-Fecha en que lo terminaste:
+Fecha en que lo terminaste: 10 Septiembre 2026
 
 ![Captura del curso Introduction to Git terminado](./introduccion-a-git.png)
 
